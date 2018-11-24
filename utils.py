@@ -183,7 +183,6 @@ def print_objects(boxes, class_names):
             print('%i. %s: %f' % (i + 1, class_names[cls_id], cls_conf))
 
             
-    
 def plot_boxes(img, boxes, class_names, plot_labels, color = None):
     
     # Define a tensor used to set the colors of the bounding boxes
