@@ -1,0 +1,6 @@
+# Para todos os arquivos e sub-pastas localizados na pasta weights/
+weights/
+# Para todos os arquivos e sub-pastas localizados na pasta .ipynb_checkpoints/
+.ipynb_checkpoints/
+# Para todos os arquivos e sub-pastas localizados na pasta imagens/
+imagens/
